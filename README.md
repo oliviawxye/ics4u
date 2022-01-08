@@ -42,7 +42,7 @@ Date developed: November 2020
 ### Technical Details
 
 * Used the Netbeans GUI builder to create a user interface
-* Implements hashing with SHA256
+* Implements hashing with MD5
 * Implements loops and conditions, uses try-catch structures for error checking
 <br>
 
